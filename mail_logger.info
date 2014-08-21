@@ -1,0 +1,12 @@
+name = Mail logger
+description = Provides logger for mail
+core = 7.x
+php = 5.3
+files[] = includes/MailDebugMailLog.php
+
+; Information added by Drupal.org packaging script on 2014-07-29
+version = "7.x-2"
+core = "7.x"
+project = "mail_logger"
+datestamp = "1406619637"
+
